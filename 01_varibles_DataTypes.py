@@ -59,3 +59,7 @@ print(e)
 # Printing the type of varibles
 
 print(type(a))
+print(type(b))
+
+
+#Operators In Python
