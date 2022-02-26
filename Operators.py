@@ -18,5 +18,14 @@ a /= 12
 
 print(a)
 
+#Comparsion Operator 
+
+b = (14>7)
+
+print(b)
+
+c = (4<3)
+print(c)
+
 
 
