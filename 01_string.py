@@ -3,10 +3,8 @@
 
 # In python we can create Single quoted, and Multi quoted strings
 
-
 a = 34
 b ="Mahesh"
-
 c = " Mahesh's "  #We can use double quote strings in python
 print(a,b)
 
