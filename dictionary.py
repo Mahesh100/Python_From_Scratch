@@ -24,3 +24,20 @@ immutable elements) and must be unique.
 
 
 '''
+
+#Empty dictionary
+
+my_dict = {}
+
+#Dictionary with integer keys
+my_dict = {1:'apple', 2:'ball'}
+
+#Dictionary with mixed keys
+my_dict1={'name':'John', 1:[2,3,4]}
+
+#Using dict()
+
+my_dict2 = dict({1:'apple',2:'ball'})
+
+# Create dictionary from sequence having 
+my_dict3 = dict([(1,'apple'),(2,'ball')])
